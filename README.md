@@ -1,1 +1,1 @@
-# NuxtJS_K-e_Yaz-s-
+# NuxtJS_Kose_Yazisi
